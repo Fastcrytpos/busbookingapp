@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rekos\Desktop\samstaff\busbookingapp\frontend\busbookingapp\build\windows\x64\CMakeFiles\01e98b59d9a179d0b0a47474fda46d53\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\rekos\Desktop\samstaff\busbookingapp\frontend\busbookingapp\build\windows\x64\CMakeFiles\36add412a7bb1abab9a5b195538153d6\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\rekos\Desktop\samstaff\busbookingapp\frontend\busbookingapp\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\rekos\Desktop\samstaff\busbookingapp\frontend\busbookingapp\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E70B70CB-E52C-3809-8969-63D1FA10C4F1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
