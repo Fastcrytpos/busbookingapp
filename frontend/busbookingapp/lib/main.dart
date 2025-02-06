@@ -1,5 +1,7 @@
+import 'package:busbookingapp/busSeats.dart';
 import 'package:flutter/material.dart';
-import 'package:busbookingapp/booking_details.dart';
+// import 'package:busbookingapp/booking_details.dart';
+// import 'package:busbookingapp/busSeats.dart';
 import 'package:busbookingapp/vehicle_list.dart'; // Import the new screen
 
 void main() {
@@ -46,8 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(
-                      builder: (context) => const BookingDetails()),
+                  MaterialPageRoute(builder: (context) => BusSeats()),
                 );
               },
               child: const Text('Go to Booking Details'),
